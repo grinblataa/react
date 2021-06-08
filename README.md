@@ -1,2 +1,2 @@
-# react-first-app
+# react
 React
